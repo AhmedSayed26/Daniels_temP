@@ -1,0 +1,206 @@
+.home .header-content .anim::after {
+    content: "";
+    left: 50%;
+    animation: typing 8s infinite steps(1);
+    -webkit-animation: typing 8s infinite steps(1);
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 400;
+    padding: 12px 0px;
+}
+
+@keyframes typing {
+    0% {
+        content: " Larry Daniels|";
+    }
+
+    2% {
+        content: " Larry Daniel|";
+    }
+
+    4% {
+        content: " Larry Danie|";
+    }
+
+    6% {
+        content: " Larry Dani|";
+    }
+
+    8% {
+        content: " Larry Dan|";
+    }
+
+    10% {
+        content: " Larry Da|";
+    }
+
+    12% {
+        content: " Larry D|";
+    }
+
+    14% {
+        content: " Larry |";
+    }
+
+    16% {
+        content: " Larry| ";
+    }
+
+    18% {
+        content: " Larr|";
+    }
+
+    20% {
+        content: " Lar|";
+    }
+
+    22% {
+        content: " La|";
+    }
+
+    24% {
+        content: " L|";
+    }
+
+    26% {
+        content: " ";
+    }
+
+    28% {
+        content: " D|";
+    }
+
+    30% {
+        content: " De|";
+    }
+
+    32% {
+        content: " Dev|";
+    }
+
+    34% {
+        content: " Deve|";
+    }
+
+    36% {
+        content: " Devel|";
+    }
+
+    38% {
+        content: " Develo|";
+    }
+
+    40% {
+        content: " Develop|";
+    }
+
+    42% {
+        content: " Develope|";
+    }
+
+    44% {
+        content: " Developer|";
+    }
+
+    46% {
+        content: " Develope|";
+    }
+
+    48% {
+        content: " Develop|";
+    }
+
+    50% {
+        content: " Develo|";
+    }
+
+    52% {
+        content: " Devel|";
+    }
+
+    54% {
+        content: " Deve|";
+    }
+
+    56% {
+        content: " Dev|";
+    }
+
+    58% {
+        content: " De|";
+    }
+
+    60% {
+        content: " D|";
+    }
+
+    62% {
+        content: " |";
+    }
+
+    64% {
+        content: " D|";
+    }
+
+    66% {
+        content: " De|";
+    }
+
+    68% {
+        content: " Des|";
+    }
+
+    70% {
+        content: " Desi|";
+    }
+
+    72% {
+        content: " Desig|";
+    }
+
+    74% {
+        content: " Design|";
+    }
+
+    76% {
+        content: " Designe|";
+    }
+
+    78% {
+        content: " Designer|";
+    }
+
+    80% {
+        content: " Designe|";
+    }
+
+    82% {
+        content: " Design|";
+    }
+
+    84% {
+        content: " Desig|";
+    }
+
+    86% {
+        content: " Desi|";
+    }
+
+    88% {
+        content: " Des|";
+    }
+
+    90% {
+        content: " De|";
+    }
+
+    92% {
+        content: " D|";
+    }
+
+    94% {
+        content: " |";
+    }
+}

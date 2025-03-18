@@ -1,0 +1,32 @@
+@media screen and (max-width:480px) {
+    .container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .anim,
+    .home .header-content .anim::after {
+        font-size: 30px;
+    }
+
+    .last2 .container .row .col-md-3 .item,
+    .contact .row .item {
+        margin: 10px 0px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    nav .container .collapse .navbar-nav {
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .navbar-toggler,
+    .navbar-toggler-icon {
+        color: #000;
+    }
+
+    .carousel-inner .carousel-item .containers {
+        width: 100%;
+    }
+}
